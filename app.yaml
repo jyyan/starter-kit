@@ -1,0 +1,7 @@
+runtime: php
+env: flex
+
+service: lumem-react
+
+runtime_config:
+  document_root: public
